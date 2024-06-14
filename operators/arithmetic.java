@@ -1,3 +1,4 @@
+package operators;
 public class arithmetic {
     public static void main(String[] args) {
         arithmetic obj = new arithmetic();

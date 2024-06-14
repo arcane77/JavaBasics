@@ -1,3 +1,4 @@
+package operators;
 public class minNumbers {
     public static void main(String[] args) {
         int[] array = {80, 40, 30, 50};

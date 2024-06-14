@@ -1,3 +1,4 @@
+package operators;
 public class logicalOperators {
 
     public void Operations(boolean a, boolean b) {
